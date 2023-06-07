@@ -5,7 +5,8 @@ this is my repo which I created to show my basic php learning
 # screenshots
 
 UI: 
-![UI](https://github.com/Shevaitverma/myPHP_Learnings/assets/54855567/e7443089-10e0-4d79-aeb3-be82cc667773)
+
+![Screenshot 2023-06-07 214026](https://github.com/Shevaitverma/myPHP_Learnings/assets/54855567/8b999cca-4526-4f71-a42f-c4cb6f912400)
 
 Database schema: 
 
